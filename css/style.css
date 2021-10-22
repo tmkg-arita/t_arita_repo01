@@ -18,7 +18,7 @@ header{
 }
 
 input{
-    border: 1px solid rgb(71, 69, 69);
+    border: 1px solid rgb(110, 107, 107);
     margin-top: 16px;
 }
 
@@ -34,6 +34,19 @@ ul{
     list-style-type: none;
 }
 
-.err{
+.den{
     color: crimson;
+}
+
+a{
+    color: rgb(71, 69, 69);
+}
+
+a:hover{
+    color: blue;
+}
+
+
+main form input:hover{
+    opacity: 0.7;
 }
