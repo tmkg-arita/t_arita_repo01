@@ -62,4 +62,5 @@
     </table>
     
 
-    <a href="./add.php">登録画面へ</a>
+    <a href="./add.php">登録画面へ!!</a>
+    
